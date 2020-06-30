@@ -10,9 +10,12 @@ description: >-
 
 ![Start the CLA Process](../../../../.gitbook/assets/start-cla-process.png)
 
-2. Click an answer: **Are you authorized to be a CLA Manager for your organization?  
-Yes**— A **Configuring CLA Manager Settings** window appears. Click **Proceed**, and continue to step 4.  
-**No**— An **Identify CLA Manager** form appears. Continue to next step.
+2. Click an answer: **Are you authorized to be a CLA Manager for your organization?**
+
+* **Yes**— A **Configuring CLA Manager Settings** window appears. After the configuration settings is completed, click **Proceed**, and continue to step 4.
+* **No**— An **Identify CLA Manager** form appears. Continue to next step.
+
+![company has not signed cla](../../../../.gitbook/assets/company-has-not-signed-cla%20%281%29.png)
 
 3. Complete the form, and click **Submit Request**, ****Or click **Contact Company Admin**.  
 A window appears confirming that request is submitted to respective individual.

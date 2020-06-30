@@ -37,30 +37,66 @@ The CLA Contributor Console appears.
 
 8. Continue:
 
-* If a Company has signed CLA
-* If 
+* If the Company has signed CLA
+* If the Company has not signed CLA
 
-## If a Company has signed CLA <a id="if-a-confirmation-of-association-with-statement-appears"></a>
+## If the Company has signed CLA <a id="if-a-confirmation-of-association-with-statement-appears"></a>
 
-1. Read the Confirmation of Association statement and mark the agreement checkbox. Click **CONTINUE**.
+**CLA manager\(s\) for your company** window appears informing you that the company has signed CLA.
 
-   ​ ![](../../../.gitbook/assets/cla-github-confirmation-of-association%20%281%29.png) 
+1. Select CLA manager\(s\) from the drop-down list whom you want to request for authorizing you to contribute.
 
-   A dialog appears and informs you: You are done!
+* **Go Back:** Takes you to the previous screen.
+* **Exit EasyCLA:** Cancels out the process of requesting to be authorized to contribute.
 
-   ​ ![](../../../.gitbook/assets/cla-github-you-are-done%20%281%29.png) ​
+![](../../../.gitbook/assets/comapny-has-signed-cla.png)
 
-2. Click **RETURN TO REPO**.
+2. Click **Request Authorization**.  
+A dialog appears and informs you: Request Submitted ​
 
-   You are redirected to GitHub. Wait a few seconds for the CLA status to update or refresh the page.
+![](../../../.gitbook/assets/request-submitted.png)
 
-   A tick appears next to your branch. A notification appears:
+3. Click **Exit EasyCLA**.  Is this correct flow: _**QUESTION FOR PRANAB**_
 
-   ​![All Checks Have Passed](../../../.gitbook/assets/cla-github-all-checks-passed%20%281%29.png)​
+You are redirected to GitHub. Wait a few seconds for the CLA status to update or refresh the page.
 
-3. Click **Merge pull request** and confirm the merge.
+A tick appears next to your branch. A notification appears:
 
-   The CLA is added to the project.
+![All Checks Have Passed](../../../.gitbook/assets/cla-github-all-checks-passed%20%281%29.png)
+
+4. Click **Merge pull request** and confirm the merge.
+
+The CLA is added to the project.
+
+## If the Company has not signed CLA <a id="if-the-select-company-dialog-appears"></a>
+
+**No Signed CLA Found** window appears informing you that the company has not signed CLA.
+
+1. Click an answer: **Are you authorized to be a CLA Manager for your organization?**
+
+* **Yes**— A **Configuring CLA Manager Settings** window appears. After the configuration settings is completed, click **Proceed**, and continue to step 5.
+* **No**— An **Identify CLA Manager** form appears. Continue to next step.
+
+![company has not signed cla](../../../.gitbook/assets/company-has-not-signed-cla%20%281%29.png)
+
+3. Complete the form, and click **Submit Request**, ****Or click **Contact Company Admin**.  
+A window appears confirming that request is submitted to respective individual.
+
+![](../../../.gitbook/assets/identify-cla-manager%20%281%29.png)
+
+4. A window appears confirming that the request is submitted.
+
+![](../../../.gitbook/assets/request-submitted-for-company-not-signed-cla.png)
+
+5. Click **Exit EasyCLA**. 
+
+_**WHAT HAPPENS AFTER THIS STEP: QUESTION TO PRANAB**_
+
+_\*\*\*\*_
+
+
+
+
 
 ## If the Select Company dialog appears <a id="if-the-select-company-dialog-appears"></a>
 
