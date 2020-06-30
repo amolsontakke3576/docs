@@ -28,7 +28,9 @@ A window appears confirming that request is submitted to respective individual.
 
 5. Click an answer: **Are you authorized to sign CLAs on your company's behalf?  
 Yes**— Review CCLA \(Corporate Contributor License Agreement\) window appears. Click **Review & Sign CCLA**, and continue to step 7.  
-**No**— An **Identify Authorized Signatory** form appears. Continue to next step.
+ ![](../../../../.gitbook/assets/review-ccla.png)   
+**No**— An **Identify Authorized Signatory** form appears. Continue to next step.  
+ ![](../../../../.gitbook/assets/identify-authorized-signatory.png) 
 
 6. Complete the form, and click **Send Signature Request Email**.  
 A success window appears confirming that the signature request is sent to the email address.
