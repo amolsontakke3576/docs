@@ -19,11 +19,11 @@ _Multiple CCLA managers cannot authorize/approve the same domain and sign a CCLA
 
 3. Click a **company** of interest.
 
-4. The CLA Corporate Console appears and shows Signed CLAs.
+4. The CLA Corporate Console appears and shows Signed CLAs under **Projects with Signed CLAs**.
 
-![Signed CLAs](../../../.gitbook/assets/cla-signed-clas.png)
+5. Click **MNAGE APPROVED LIST** 
 
-5. Click a **CLA**.
+![manage approved list](../../../.gitbook/assets/manage-approved-list.png)
 
 The approved lists appear:
 

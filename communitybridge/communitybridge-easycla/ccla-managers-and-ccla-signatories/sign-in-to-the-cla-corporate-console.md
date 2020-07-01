@@ -13,7 +13,7 @@ As a CCLA manager, sign in to the CLA Corporate Console to add your company to a
 
 3. Enter your credentials as the CCLA manager and click **Sign In**.
 
-   The CLA Corporate Console appears and shows Companies.
+   The CLA Corporate Console appears and shows companies that you are associated with.
 
-![CLA Corporate Console](../../../.gitbook/assets/cla-corporate-console.png)
+![CLA corporate console](../../../.gitbook/assets/cla-corporate-console%20%281%29.png)
 
