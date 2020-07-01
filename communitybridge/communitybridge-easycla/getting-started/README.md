@@ -52,10 +52,10 @@ At any time, you can change the settings to manage your project CLA monitoring, 
 
 You are a _contributor_ \(developer\) if you contribute code to GitHub or Gerrit projects. With EasyCLA, you will follow different workflows depending on whether the project is hosted on GitHub or Gerrit, and whether you contribute on behalf of a company or yourself as an individual:
 
-* **Corporate** **Contributor \(GitHub\):** [confirm your association with a company](../contributors/contribute-to-a-github-company-project.md) that has a signed Corporate Contributor License Agreement.
+* **Corporate** **Contributor \(GitHub\):** [confirm your association with a company](../contributors/contribute-to-a-corporate-github-project.md) that has a signed Corporate Contributor License Agreement.
 * **Individual** **Contributor \(GitHub\):** [sign an Individual Contributor License Agreement](../contributors/sign-a-cla-as-an-individual-contributor-to-github.md).
-* **Corporate** **Contributor \(Gerrit\):** [confirm your association with a company](../contributors/contribute-to-a-gerrit-project.md) that has a signed Corporate Contributor License Agreement.
-* **Individual Contributor \(Gerrit\):**[ sign an Individual Contributor License Agreement](../contributors/contribute-to-a-gerrit-project.md).
+* **Corporate** **Contributor \(Gerrit\):** [confirm your association with a company](../contributors/contribute-to-a-corporate-gerrit-project.md) that has a signed Corporate Contributor License Agreement.
+* **Individual Contributor \(Gerrit\):**[ sign an Individual Contributor License Agreement](../contributors/contribute-to-a-corporate-gerrit-project.md).
 
 ### Corporate CLA Manager <a id="corporate-cla-manager"></a>
 
@@ -73,8 +73,8 @@ You are a _Corporate CLA Manager Designee_ \(CCLA manager designee\) if there ar
 
 You become a CLA manager designee when you, as a corporate contributor, tries to contribute to a project, and finds that there is no CLA signed between your company and the project you are contributing to. Then, you sign a CLA process where you become the CLA manager designee and this role is eventually converted to CLA manager after signing is completed. With EasyCLA, you can:
 
-* [Contribute to a GitHub Company Project](../contributors/contribute-to-a-github-company-project.md)
-* [Contribute to a Gerrit Company Project](../contributors/contribute-to-a-gerrit-project.md)
+* [Contribute to a GitHub Company Project](../contributors/contribute-to-a-corporate-github-project.md)
+* [Contribute to a Gerrit Company Project](../contributors/contribute-to-a-corporate-gerrit-project.md)
 
 ### Corporate CLA Signatory <a id="corporate-cla-signatory"></a>
 

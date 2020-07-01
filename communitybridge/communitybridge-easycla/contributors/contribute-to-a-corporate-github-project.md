@@ -1,4 +1,4 @@
-# Contribute to a GitHub Company Project
+# Contribute to a Corporate GitHub  Project
 
 As a corporate \(employee\) contributor to an open-source project, you create a pull request in GitHub to inform code maintainers about changes made to the code. If any of your contributions to the project are created as part of your employment, the work may not belong to you—it may be owned by your employer. In that case, the CCLA signatory represents the employer \(company\) for legal reasons, and signs the Corporate Contributor Licensing Agreement \(CCLA\) in order for your contribution to be accepted by the company. During the pull request process, your CLA status is verified.
 
@@ -37,9 +37,9 @@ The CLA Contributor Console appears.
 
 8. Continue:
 
-* [Company has signed CLA](contribute-to-a-github-company-project.md#if-a-confirmation-of-association-with-statement-appears)
-* [Company has not signed CLA](contribute-to-a-github-company-project.md#if-the-select-company-dialog-appears)
-* [Company is not in the List](contribute-to-a-github-company-project.md#if-the-select-company-dialog-appears-1)
+* [Company has signed CLA](contribute-to-a-corporate-github-project.md#if-a-confirmation-of-association-with-statement-appears)
+* [Company has not signed CLA](contribute-to-a-corporate-github-project.md#if-the-select-company-dialog-appears)
+* [Company is not in the List](contribute-to-a-corporate-github-project.md#if-the-select-company-dialog-appears-1)
 
 ## Company has signed CLA <a id="if-a-confirmation-of-association-with-statement-appears"></a>
 
@@ -128,7 +128,7 @@ The CLA is added to the project.
 
 ![](../../../.gitbook/assets/enter-organization-details.png)
 
-3. A window appears confirming that the organization is successfully added. Click **Proceed**, and continue to [step 1 of Company has not signed CLA](contribute-to-a-github-company-project.md#if-the-select-company-dialog-appears).  
+3. A window appears confirming that the organization is successfully added. Click **Proceed**, and continue to [step 1 of Company has not signed CLA](contribute-to-a-corporate-github-project.md#if-the-select-company-dialog-appears).  
 **Note: Compnay Already Exists** window appears if the company is already added to the list.
 
 ![](../../../.gitbook/assets/company-added-successfully.png)

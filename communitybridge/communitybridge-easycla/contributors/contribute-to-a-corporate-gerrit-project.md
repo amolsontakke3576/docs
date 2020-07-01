@@ -1,4 +1,4 @@
-# Contribute to a Gerrit Project
+# Contribute to a Corporate Gerrit Project
 
 As an individual contributor or a corporate \(employee\) contributor or to an open source project, you submit changed code in Gerrit to inform reviewers about the changes:
 
@@ -21,7 +21,7 @@ _If you are a project manager, make sure that you are logged out of the CLA Mana
 
 4. Navigate to the Gerrit instance of your project. For example, if you are contributing to OPNFV project, navigate to [https://gerrit.opnfv.org](https://gerrit.opnfv.org/)​
 
-5. Log in using your LFID.
+5. Sign in using your [Single Sign-On \(SSO\)](../../../sso/) account.
 
 6. Navigate to **Settings**— the gear icon on the upper right corner, and click **Agreements** from the menu on the left:
 
@@ -37,8 +37,8 @@ _If you are a project manager, make sure that you are logged out of the CLA Mana
 
 9. Continue to contribute as an individual or employee \(corporate contributor\):
 
-* [Individual Contributor](contribute-to-a-gerrit-project.md#individual-contributor)
-* [Corporate Contributor](contribute-to-a-gerrit-project.md#corporate-contributor)
+* [Individual Contributor](contribute-to-a-corporate-gerrit-project.md#individual-contributor)
+* [Corporate Contributor](contribute-to-a-corporate-gerrit-project.md#corporate-contributor)
 
 ## Individual Contributor <a id="individual-contributor"></a>
 
@@ -57,7 +57,7 @@ EasyCLA presents a review agreement link to individual contributors to open a CL
 4. Click **OPEN CLA** on the dialog that appears:  
 DocuSign presents the agreement that you must sign. The Individual CLA is not tied to any employer you may have, so enter your @personal address in the E-Mail field.
 
-![CLA Gerrit Individual CLA](../../../.gitbook/assets/cla-gerrit-individual-cla-open-cla.png)
+![](../../../.gitbook/assets/individual-cla.png)
 
 5. Follow the instructions in the DocuSign document, sign it, and click **FINISH**.
 
@@ -82,10 +82,10 @@ EasyCLA presents a review agreement link where you confirm your association with
 
 5. Continue:
 
-* [If a **Confirmation of Association with** statement appears](contribute-to-a-gerrit-project.md#if-a-confirmation-of-association-with-statement-appears)
-* [If a **Company has not signed CCLA** window appears](contribute-to-a-gerrit-project.md#if-a-company-has-not-signed-ccla-window-appears)
-* [If You are not authorized](contribute-to-a-gerrit-project.md#if-you-are-not-whitelisted)
-* [If Company is not in the list](contribute-to-a-gerrit-project.md#if-company-is-not-in-the-list)
+* [If a **Confirmation of Association with** statement appears](contribute-to-a-corporate-gerrit-project.md#if-a-confirmation-of-association-with-statement-appears)
+* [If a **Company has not signed CCLA** window appears](contribute-to-a-corporate-gerrit-project.md#if-a-company-has-not-signed-ccla-window-appears)
+* [If You are not authorized](contribute-to-a-corporate-gerrit-project.md#if-you-are-not-whitelisted)
+* [If Company is not in the list](contribute-to-a-corporate-gerrit-project.md#if-company-is-not-in-the-list)
 
 ## If a **Confirmation of Association with** statement appears <a id="if-a-confirmation-of-association-with-statement-appears"></a>
 
