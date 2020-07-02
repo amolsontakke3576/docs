@@ -15,7 +15,7 @@ The page displays projects with signed CLAs, pending requests to sign CLA, and s
 
 ![sign new cla](../../../.gitbook/assets/sign-new-cla.png)
 
-4. Select a project for which you want to sign CCLA from the **Select a Project to Sign a CCLA** window, and click **SUBMIT**.
+4. Select a project for which you want to sign CCLA, and click **SUBMIT**.
 
 ![](../../../.gitbook/assets/select-project-to-sign-cla.png)
 
